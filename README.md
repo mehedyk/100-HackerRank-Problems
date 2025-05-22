@@ -96,7 +96,7 @@
 | 94  | The Time in Words           | https://www.hackerrank.com/challenges/the-time-in-words        | 094_TimeInWords.cpp     |
 | 95  | Climbing the Leaderboard    | https://www.hackerrank.com/challenges/climbing-the-leaderboard| 095_ClimbingLeaderboard.cpp|
 | 96  | Beautiful Triplets          | https://www.hackerrank.com/challenges/beautiful-triplets       | 096_BeautifulTriplets.cpp|             |
-| 97  | Birthday Cake Candles       |(https://www.hackerrank.com/challenges/birthday-cake-candles/problem)      | 097_birthday_cake_candles.cpp      |
-| 98  | Time Conversion             |(https://www.hackerrank.com/challenges/time-conversion/problem)            | 098_time_conversion.cpp            |
-| 99  | Grading Students            |(https://www.hackerrank.com/challenges/grading/problem)           | 099_grading_students.cpp           |
-| 100 | Apple and Orange            |(https://www.hackerrank.com/challenges/apple-and-orange/problem)           | 100_apple_and_orange.cpp           |
+| 97  | Birthday Cake Candles       |https://www.hackerrank.com/challenges/birthday-cake-candles/problem      | 097_birthday_cake_candles.cpp      |
+| 98  | Time Conversion             |https://www.hackerrank.com/challenges/time-conversion/problem            | 098_time_conversion.cpp            |
+| 99  | Grading Students            |https://www.hackerrank.com/challenges/grading/problem           | 099_grading_students.cpp           |
+| 100 | Apple and Orange            |https://www.hackerrank.com/challenges/apple-and-orange/problem           | 100_apple_and_orange.cpp           |
